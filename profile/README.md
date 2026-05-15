@@ -62,7 +62,7 @@ Our research is motivated by real-world deployment environments, including:
 
 ### Researchers
 - **Dr. Woo-Hyun Choi** - Postdoctoral Researcher
-- **Daeyoung Kang** 
+- **Daeyoung Kang** - Researcher
 - **Sunwoo Lee** - Ph.D. Student ([GitHub](https://github.com/programsurf))
 - **Minseo Park** - Integrated M.S./Ph.D. Student, KENTECH 1st 
 - **Suha Kim** - Integrated M.S./Ph.D. Student, KENTECH 1st
