@@ -94,20 +94,6 @@ For more information about our members, please visit the lab website.
 
 ---
 
-## Collaboration
-
-We welcome collaboration with students, researchers, and industry partners interested in:
-
-- Trustworthy AI
-- Cybersecurity
-- Federated and continual learning
-- Post-quantum cryptography
-- Privacy-preserving AI
-- Cyber-physical system security
-- Secure LLM systems
-
----
-
 ## Contact
 
 - **Website**: [[Lab](https://sites.google.com/kentech.ac.kr/seunghyunyoon/)]
