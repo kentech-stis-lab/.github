@@ -61,22 +61,23 @@ Our research is motivated by real-world deployment environments, including:
   Assistant Professor, Korea Institute of Energy Technology (KENTECH)
 
 ### Researchers
-- **Dr. Woo-Hyun Choi** — Postdoctoral Researcher
-- **Sunwoo Lee** — Ph.D. Student ([GitHub](https://github.com/programsurf))
-- **Minseo Park** — Integrated M.S./Ph.D. Student, KENTECH 1st 
-- **Suha Kim** — Integrated M.S./Ph.D. Student, KENTECH 1st
+- **Dr. Woo-Hyun Choi** - Postdoctoral Researcher
+- **Daeyoung Kang** 
+- **Sunwoo Lee** - Ph.D. Student ([GitHub](https://github.com/programsurf))
+- **Minseo Park** - Integrated M.S./Ph.D. Student, KENTECH 1st 
+- **Suha Kim** - Integrated M.S./Ph.D. Student, KENTECH 1st
 
 ### Undergraduate Interns
-- **Yeongju Seong** — KENTECH 2nd
-- **Sunoh Ryu** — KENTECH 2nd
-- **Harok Lee** — KENTECH 3rd
-- **Seoyoung Kim** — KENTECH 3rd
-- **Sunmin Lim** — KENTECH 2nd
-- **Seungji Cho** — KENTECH 3rd
+- **Yeongju Seong** - KENTECH 2nd
+- **Sunoh Ryu** - KENTECH 2nd
+- **Harok Lee** - KENTECH 3rd
+- **Seoyoung Kim** - KENTECH 3rd
+- **Sunmin Lim** - KENTECH 2nd
+- **Seungji Cho** - KENTECH 3rd
 
 ### Administrative Staff
-- **Min Kim** — Energy AI Research Institute
-- **Eunsu Park** — Learning Design Research Institute
+- **Min Kim** - Energy AI Research Institute
+- **Eunsu Park** - Learning Design Research Institute
 
 For more information about our members, please visit the lab website.
 
